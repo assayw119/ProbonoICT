@@ -1,5 +1,0 @@
-python detect.py --source video.mp4 --weights best.pt
-
-가상환경 probono
-
-python detect.py --source 0 --weights best.pt --nosave
